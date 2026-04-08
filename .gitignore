@@ -1,0 +1,42 @@
+# Entorno
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Certificados y secrets
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build/output
+*.egg-info/
+dist/
+build/
+*.whl
+node_modules/
+
+# Caches
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+*.coverage
