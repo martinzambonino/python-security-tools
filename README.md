@@ -1,7 +1,7 @@
 # Python Security Tools
 
-![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/MartinZamboninoG/python-security-tools/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/MartinZamboninoG/python-security-tools)
+![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/martinzambonino/python-security-tools/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/martinzambonino/python-security-tools)
 
 ## What It Does
 
@@ -25,7 +25,7 @@ A collection of Python-based security utilities designed for educational explora
 
 ```bash
 # Clone the repository
-git clone https://github.com/MartinZamboninoG/python-security-tools.git
+git clone https://github.com/martinzambonino/python-security-tools.git
 cd python-security-tools
 
 # Create virtual environment
